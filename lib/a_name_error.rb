@@ -1,3 +1,3 @@
 "hello world"
 
-class hello_world
+do "hello_world"
