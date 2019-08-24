@@ -1,3 +1,3 @@
 "hello world"
 
-do "hello world"
+hello_world
